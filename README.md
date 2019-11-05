@@ -8,7 +8,7 @@ Matlab Implementation of DSM
 
 ## Introduction
 <p align="center">
-  <img src="mimo.png" align="center" width="500" height="350">
+  <img src="mimo.png" align="center" width="650" height="300">
 </p>
 
 In a recently developing modulation technique, Spatial modulation (SM), only a single antenna is activated during MIMO transmission. The major limitation associated with the SM is that channel state information (CSI) is required at the receiver end. Estimation of CSI makes the decoding process fairly complex and difficult to implement. In a recent trial to overcome the difficulties posed by SM, a differential SM scheme(DSM) is formulated that completely bypasses any CSI at the transmitter or receiver, while preserving the single active transmit antenna property. 
@@ -24,10 +24,6 @@ In a recently developing modulation technique, Spatial modulation (SM), only a s
 
 <p align="center">
   <img src="fig1.png" align="center" width="500" height="350">
-</p>
-
-<p align="center">
-  <img src="fig2.png" align="center" width="500" height="350">
 </p>
 
 ## Results
