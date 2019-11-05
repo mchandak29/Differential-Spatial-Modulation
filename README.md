@@ -17,9 +17,9 @@ In a recently developing modulation technique, Spatial modulation (SM), only a s
 
 ## How to use
 1. ``` git clone ``` the repository.
-2. ```DSM.m``` contains the Differential Spatial Modulation model
-  a. Input: To be Transmitted message array, N<sub>t</sub>, N<sub>r</sub>, b, channel SNR
-  b. Output: Recieved Message Array
+2. ```DSM.m``` contains the Differential Spatial Modulation model.
+..*Input: To be Transmitted message array, N<sub>t</sub>, N<sub>r</sub>, b, channel SNR
+..*Output: Recieved Message Array
 3. ```BitErrorRate.m``` compares SM vs DSM techniques.
 
 <p align="center">
