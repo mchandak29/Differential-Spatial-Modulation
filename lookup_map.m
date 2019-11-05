@@ -1,5 +1,5 @@
 function X = lookup_map(bits, Nt, b)
-        % Maps the value of bits to X matrix that belongs to Gm
+    % Maps the value of bits to X matrix that belongs to Gm
     % bits1 should be of the size [log2(Nt!)]
     % bits2 should be of the size Nt*b
     len1 = floor(log2(factorial(Nt)));
